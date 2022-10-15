@@ -22,7 +22,7 @@ int main(void)
 				if (a != 98 || a !=99)
 				{
 					putchar(',');
-					puchar(' ');
+					putchar(' ');
 				}
 			}
 		}
