@@ -11,7 +11,7 @@ int main(void)
 	int i;
 
 	sum1 = 0;
-	sum3 = 0;
+	sum2 = 0;
 	sum = 0;
 
 	for (i = 0; i < 1024; ++i)
