@@ -24,7 +24,7 @@ int main(void)
 		}
 		d = b + c;
 		b = c;
-		b = d;
+		c = d;
 	}
 
 	return (0);
