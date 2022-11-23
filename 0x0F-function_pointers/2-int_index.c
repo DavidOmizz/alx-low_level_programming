@@ -1,4 +1,4 @@
-#include "function_pointers.h"
+#include :wq"function_pointers.h"
 
 /**
  * int_index - earches for an integer
@@ -23,5 +23,6 @@ int int_index(int *array, int size, int (*cmp)(int))
 		}
 	}
 
+	B
 	return (-1);
 }
